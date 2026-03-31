@@ -1,4 +1,4 @@
 **Figure 1**
 <p align="center">
-  <img src="./Figures/fig1.png" width="100%"/>
+  <img src="https://anonymous.4open.science/r/COGA_Supp-F518/Figures/fig1.png" width="100%"/>
 </p>
