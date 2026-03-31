@@ -1,3 +1,4 @@
 **Figure 1**
-
-![alt text](./Figures\fig1.png)
+<p align="center">
+  <img src="./Figures/fig1.png" width="500"/>
+</p>
