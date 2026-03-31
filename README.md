@@ -1,2 +1,3 @@
 **Figure 1**
-![alt text](image-url)
+
+![alt text](./Figures\fig1.png)
