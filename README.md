@@ -23,6 +23,6 @@
 **Figure 4**
 
 <p align="center">
-  <img src="https://anonymous.4open.science/r/COGA_Supp-F518/Figures/fig4new.png?raw=true" width="100%"/>
+  <img src="https://anonymous.4open.science/r/COGA_Supp-F518/Figures/fig4new.jpg?raw=true" width="100%"/>
 
 </p>
